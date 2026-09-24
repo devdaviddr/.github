@@ -1,4 +1,7 @@
 Closes #
+<!-- Or "Part of #N" if this PR doesn't finish the feature. -->
+
+Tasks: <!-- task IDs from the spec, e.g. T-2, T-3 -->
 
 ## What changed
 
